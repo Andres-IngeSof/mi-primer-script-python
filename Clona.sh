@@ -1,0 +1,1 @@
+git clone [https://github.com/tu-usuario/mi-primer-script-python.git](https://github.com/tu-usuario/mi-primer-script-python.git)

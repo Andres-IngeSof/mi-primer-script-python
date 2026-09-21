@@ -1,0 +1,1 @@
+cd mi-primer-script-python
